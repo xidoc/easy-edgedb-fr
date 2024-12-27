@@ -3,7 +3,7 @@ tags: Object Types, Select, Insert
 leadImage: illustration_01.jpg
 ---
 
-# Chapter 1 - Jonathan Harker travels to Transylvania
+# Chapitre 1 - Jonathan Harker se rend en Transylvanie
 
 In the beginning of the book we see the main character Jonathan Harker, a young lawyer who is going to meet a client. The client is a rich man named Count Dracula who lives somewhere in Eastern Europe. Jonathan is enjoying the trip to a new part of Europe, completely unaware that Count Dracula is actually a vampire. The book begins with Jonathan writing in his journal as he travels. The parts in his journal to note when thinking about a database are in **bold**:
 
